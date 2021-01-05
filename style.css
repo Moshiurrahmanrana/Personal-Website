@@ -1,0 +1,14 @@
+.highlight{
+    color:orangered;
+}
+.fonts{
+font-family: 'Roboto', sans-serif;
+}
+.button{
+    text-decoration: 0px;
+    background-image: linear-gradient(45deg,steelblue,red);
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 700;
+    color: white;
+}
