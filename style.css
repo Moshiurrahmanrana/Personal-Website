@@ -1,8 +1,17 @@
 .highlight{
     color:orangered;
 }
+.headline{
+    color: slategray;
+}
 .fonts{
-font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size: 35px;
 }
 .button{
     text-decoration: 0px;
@@ -11,4 +20,67 @@ font-family: 'Roboto', sans-serif;
     border-radius: 6px;
     font-weight: 700;
     color: white;
+}
+.half-width img{
+    width:100%;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding: 3%;
+}
+.middle{
+    height: 1200px;
+    
+}
+.down{
+    text-align: center;
+}
+.lower-site{
+    width: 20%;
+    float: left;
+    margin-left:100px;
+    padding: 1%;
+}
+.lower-site img{
+    width: 100%;
+}
+.position{
+    height: 390px;
+}
+.banner{
+    background-image: url("images/image 1.png");
+    margin: auto;
+    width: 60%;
+    padding: 5px;
+    border-radius: 5px;
+    height:250px ;
+    
+}
+.contact{
+    margin-left: 70%;
+    text-decoration: 0px;
+    background-image: linear-gradient(45deg,steelblue,red);
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 700;
+    color: white;
+    font-size: 20px;
+    
+}
+.gray{
+    color: rgba(83, 81, 81, 0.705);
+    font-weight:bold;
+}
+.social-network{
+    text-align: center;
+}
+.app{
+    float: left;
+    margin-left: 0%;
+}
+.apps{
+    float: left;
+    margin-left: 40%;
 }
